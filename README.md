@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @asudenisatiras<br><br>-👀 I’m interested in iOS Mobile Application Development<br><br>-🔭 I’m an Industrıal Engineer<br><br>-🌱 I’m currently learning Swift<br><br>-📫 How to reach me: asudenisatiras@gmail.com<br><br>
+-👋 Hi, I’m @asudenisatiras<br><br>-👀 I’m interested in iOS Mobile Application Development<br><br>-🔭 I’m an Industrial Engineer<br><br>-🌱 I’m currently learning Swift<br><br>-📫 How to reach me: asudenisatiras@gmail.com<br><br>
 
 
 ## 🌐 Socials:
